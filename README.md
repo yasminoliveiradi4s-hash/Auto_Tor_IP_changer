@@ -22,7 +22,7 @@ how to install this tools :
 
 6: type how many time to change your ip 
 
-*[0 to infinte IP change]
+*[3 to infinte IP change]
 
 6 : go to your browser / pc  change sock proxy to 127.0.0.1:9050
 
